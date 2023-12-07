@@ -1,0 +1,4 @@
+node_modules
+.env
+icg_py_server/templates
+icg_py_server/venv
